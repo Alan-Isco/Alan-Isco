@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alan-Isaac
+- 👋 Hi, I’m @Alan-Isco
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on software development projects
